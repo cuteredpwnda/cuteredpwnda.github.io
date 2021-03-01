@@ -7,6 +7,6 @@
 ### Only bike crashes:
 [here](https://github.com/cuteredpwnda/visualize_crashes/blob/main/html/dortmund/bikecrashes.html)
 
-## crash dara visualization for Würzburg (2017-2019)
+## Crash data visualization for Würzburg (2017-2019)
 ### Only bike crashes:
 [here](https://github.com/cuteredpwnda/visualize_crashes/blob/main/html/wuerzburg/bikecrashes.html)
