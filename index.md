@@ -10,3 +10,8 @@
 ## Crash data visualization for Würzburg (2017-2019)
 ### Only bike crashes:
 [here](https://github.com/cuteredpwnda/visualize_crashes/blob/main/html/wuerzburg/bikecrashes.html)
+
+
+## this is a test:
+
+[testi](../DataScience/visualize_crashes/html/dortmund/pedestriancrashed.html)
